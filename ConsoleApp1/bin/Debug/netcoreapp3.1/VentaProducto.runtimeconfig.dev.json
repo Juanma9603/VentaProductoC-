@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\luedj\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\luedj\\.nuget\\packages"
+    ]
+  }
+}
